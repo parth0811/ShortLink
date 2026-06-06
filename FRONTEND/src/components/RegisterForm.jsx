@@ -28,7 +28,7 @@ const RegisterForm = ({state}) => {
       const data = await registerUser(name, password, email);
       setLoading(false);
       dispatch(login(data.user))
-      navigate({to:"/dashboard"})
+      navigate({ to: "/dashboard" })
       setLoading(false);
     } catch (err) {
       setLoading(false);
@@ -69,7 +69,7 @@ const RegisterForm = ({state}) => {
           <input
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
             id="email"
-            type="email"
+            type="text"
             placeholder="Email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}

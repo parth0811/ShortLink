@@ -1,0 +1,48 @@
+# ======================================
+# FRONTEND
+# ======================================
+
+FRONTEND/node_modules
+FRONTEND/.env
+FRONTEND/.env.local
+FRONTEND/.env.development
+FRONTEND/.env.production
+
+FRONTEND/dist
+FRONTEND/build
+
+# ======================================
+# BACKEND
+# ======================================
+
+BACKEND/node_modules
+BACKEND/.env
+
+BACKEND/dist
+BACKEND/build
+
+# ======================================
+# GENERAL (GLOBAL SAFETY)
+# ======================================
+
+node_modules
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode
+.idea
+
+# Coverage (testing)
+coverage
