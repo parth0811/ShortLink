@@ -96,7 +96,7 @@ url-shortener/
 ![Dashboard](./screenshots/dash.jpg)
 
 ### 🔗 Create Short URL
-![Create URL](./screenshots/short.jpg)
+![Create URL](./screenshots/shor.jpg)
 
 ### 🔗 Create Custom Short URL
 ![Create URL](./screenshots/custom.jpg)
