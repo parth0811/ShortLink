@@ -84,25 +84,25 @@ url-shortener/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/url_home.jpg)
+![Home Page](./screenshots/hom.jpg)
 
 ### 🔐 Login Page
-![Login Page](./screenshots/log.jpg)
+![Login Page](./screenshots/lo.jpg)
 
 ### 📝 Signup Page
-![Signup Page](./screenshots/sign.jpg)
+![Signup Page](./screenshots/sig.jpg)
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dash.jpg)
+![Dashboard](./screenshots/das.jpg)
 
 ### 🔗 Create Short URL
-![Create URL](./screenshots/shor.jpg)
+![Create URL](./screenshots/shorte.jpg)
 
 ### 🔗 Create Custom Short URL
-![Create URL](./screenshots/custom.jpg)
+![Create URL](./screenshots/cus.jpg)
 
 ### 📈 Analytics Page
-![Analytics](./screenshots/lists.jpg)
+![Analytics](./screenshots/lin.jpg)
 
 ## ⚙️ Installation & Setup
 
